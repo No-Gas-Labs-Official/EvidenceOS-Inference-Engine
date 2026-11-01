@@ -1,0 +1,10 @@
+{
+  "name": "evidenceos-inference-engine",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Deterministic claim/path scorer. Spec 0.10, method evidenceos-score/0.1.",
+  "scripts": {
+    "test": "node --test src/"
+  }
+}
